@@ -58,7 +58,7 @@
 
 .myCarousel .item {
   position: center;
-  height: auto;
+  height: 800px;
 }
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
