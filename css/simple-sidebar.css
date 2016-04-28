@@ -53,12 +53,12 @@
 #myCarousel {
     z-index: 100;
     overflow: hidden;
-    height: 800px;
+    height: 600px;
 }
 
 .myCarousel .item {
   position: center;
-  height: 800px;
+  height: 600px;
 }
 
 .carousel-inner > .item > img, .carousel-inner > .item > a > img {
